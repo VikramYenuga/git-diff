@@ -8,7 +8,11 @@ public class Calculator {
 
     public int subtract(int a, int b) {
         return a - b;
+<<<<<<< HEAD
         
+=======
+        defghjk
+>>>>>>> 8a64bd2 (commit restore)
     }
 
     public int multiply(int a, int b) {
